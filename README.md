@@ -1,2 +1,3 @@
-# company-limited
-A holding page for Company Limited.
+# Company Ltd. Webpage
+
+A webpage design for Company Limited.
